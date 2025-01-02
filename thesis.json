@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "bol",
-  "lingua": "spa",
-  "universitas": "www.umsa.bo",
-  "facultas": "www.umsa.bo/fcef",
-  "repositorium": "repositorio.umsa.bo",
-  "descriptio": "Facultad de Ciencias Económicas y Financieras / Universidad Mayor de San Andrés / Bolivia"
+  "year": 2024,
+  "description": "Facultad de Ciencias Económicas y Financieras / Universidad Mayor de San Andrés / Bolivia",
+  "iso_country": "bol",
+  "iso_language": "spa",
+  "url_university": "https://www.umsa.bo/",
+  "url_school": "https://www.umsa.bo/fcef",
+  "url_repository": "https://repositorio.umsa.bo/"
 }
